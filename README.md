@@ -4,6 +4,9 @@ testes github 2024.2
 ~~~java
 class OlaMundo
 {
-    
+    public static void main(String[] args)
+    {
+        
+    }
 }
 ~~~
